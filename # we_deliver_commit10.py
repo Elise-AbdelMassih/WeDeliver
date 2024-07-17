@@ -109,4 +109,4 @@ def driversMenu():
         else:
             print("Invalid number. Please enter 1, 2, or 3.")
 
-driversMenu()
+driversMenu() #to test the function
